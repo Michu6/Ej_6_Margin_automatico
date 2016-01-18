@@ -1,0 +1,13 @@
+.caja{
+	border: 10px solid yellow;
+	padding: 30px;
+	width: 250px;
+	text-align: center;
+}
+
+.cajita{
+	border: 10px solid yellow;
+	padding: 30px;
+	width: 250px;
+	margin: auto;
+}
